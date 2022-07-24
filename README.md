@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I am George Muema Alias Kinara. 👋
+I holds a Bachelors Degree in Software Engineering. Am a full stack developer and likes working around Python(Django), Core PHP, Laravel, Javascript, HTML5,CSS3
 
 <!--
 **semekatech/semekatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
